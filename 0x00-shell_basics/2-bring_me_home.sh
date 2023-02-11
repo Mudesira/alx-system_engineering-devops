@@ -1,3 +1,2 @@
 #!/bin/bash
-#difficuly
-echo "cd home /"
+echo "cd home/"
