@@ -1,9 +1,2 @@
 #!/bin/bash
-#I am disappointed with cheker
-echo"$ ./1-listit
-
-Applications    Documents   Dropbox Movies Pictures
-
-Desktop Downloads   Library Music Public
-
-$"
+echo"$ ./1-listit Applications    Documents   Dropbox Movies Pictures Desktop Downloads   Library Music Public $"
