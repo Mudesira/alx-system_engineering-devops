@@ -1,1 +1,1 @@
-it is funtastic to get this done
+script that switches the current user to the user betty.
